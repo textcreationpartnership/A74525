@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance appointing commissioners for the better ordering and bringing in the duty of excize, and the arrears thereof.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74525</idno>
+            <idno type="STC">Thomason E1063_6</idno>
+            <idno type="STC">ESTC R209536</idno>
+            <idno type="EEBO-CITATION">99868412</idno>
+            <idno type="PROQUEST">99868412</idno>
+            <idno type="VID">169172</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74525)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169172)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 158:E1063[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance appointing commissioners for the better ordering and bringing in the duty of excize, and the arrears thereof.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+               </titleStmt>
+               <extent>47-50 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Will. du-Gard and Hen. Hills, Printers to His Highness, the Lord Protector,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Order to print dated: 29 December 1653.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Excise tax --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="47" facs="tcp:169172:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 34 -->
+            <head>
+               <figure>
+                  <figDesc>blazon of the Commonwealth</figDesc>
+               </figure>
+            </head>
+            <head>AN ORDINANCE Appointing Commiſſioners for the better ordering and bringing in the Duty of Excize, and the Arrears thereof.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Or the more ſpeedy and effectual getting in of all Arrears of Ex<g ref="char:EOLhyphen"/>cize, Be it Ordained by His High<g ref="char:EOLhyphen"/>neſs, the Lord Protector, with the conſent of His Council, and it is Ordained, That Sir <hi>Willi<g ref="char:EOLhyphen"/>am Roberts,</hi> Knight, <hi>John Stone, Gervas Bennet, John Hildeſley, Richard Lucy, Edward Clud, Tho. Wood, Anthony Rous, James Phillips,</hi> and <hi>Natha<g ref="char:EOLhyphen"/>niel Barton,</hi> 
+               <abbr>Eſqs</abbr> or any three of them, be authorized and required, to conſider and exa<g ref="char:EOLhyphen"/>mine, by Oath or otherwiſe, what Arrears of the Excize are not yet paid into the Treaſury for the ſame, and what remaineth in the hands of any Farmer, Commiſsioner, Sub-Com<g ref="char:EOLhyphen"/>miſsioner, or other Perſon whatſoever, or for which any perſon or perſons ſtand engaged
+<pb n="48" facs="tcp:169172:2"/>
+               <!-- PDF PAGE 35 -->
+with any Farmer or Sub-Commiſsioner, and to ſend for perſons Accompts, Articles, Re<g ref="char:EOLhyphen"/>ceipts, Bonds, or any Writings concerning Ex<g ref="char:EOLhyphen"/>cize, or relating thereunto; and to hear all par<g ref="char:EOLhyphen"/>ties, and to determine all differences concerning the ſame, and to commit any perſon to ſafe cuſto<g ref="char:EOLhyphen"/>dy for contempt; and if any perſon ſhall refuſe or delay to pay into the ſaid Treaſury, all ſuch Arrears of Excize, and every, or any part there<g ref="char:EOLhyphen"/>of, as by the ſaid Commiſsioners, or any three of them ſhall be adjudged due to the Common<g ref="char:EOLhyphen"/>wealth, and ordered to be paid, upon ſuch default certified under the hand of the Treaſurer, and from the ſaid Commiſsioners, or any three of them; the Commiſsioners for Compounding at <hi>Haberdaſhers-Hall,</hi> ſhall Sequeſter the Eſtate of all ſuch perſons, both perſonal and real, till ſuch Arrears be paid with dammages; and in caſe ſuch Arrears and Dammages ſhall not be received and paid within Six Moneths after ſuch Sequeſtration, then all and every Eſtate ſo ſequeſtred, and continuing ſo long in Seque<g ref="char:EOLhyphen"/>ſtration, may and ſhall be ſold by ſuch perſon as the Commiſsioners herein named ſhall ap<g ref="char:EOLhyphen"/>point, rendring the overplus to the perſon ſo offending, after ſuch Arrears of Excize ſhall be fully paid, with Dammages for the ſame: and if any Collector, Receiver, or any other Officer, or perſon at any time relating to the Excize, ſhall pretend any thing due to him from the Com<g ref="char:EOLhyphen"/>monwealth, or from any Commiſsioners for the Excize, and upon that, or any other pretence, ſhall detain any Money in his hands, or Ar<g ref="char:EOLhyphen"/>rears unpaid into the Treaſury, the ſaid Com<g ref="char:EOLhyphen"/>miſsioners, or any three of them, are hereby im<g ref="char:EOLhyphen"/>powred to hear and determine the ſame, and to
+<pb n="49" facs="tcp:169172:2"/>
+               <!-- PDF PAGE 35 -->
+make ſuch Order and Allowance in all ſuch caſes as ſhall be juſt; and the ſaid Commiſsi<g ref="char:EOLhyphen"/>oners or any three of them, are impowred to hear and determine all Suits, Bills, Com<g ref="char:EOLhyphen"/>plaints, or Differences, and to relieve any per<g ref="char:EOLhyphen"/>ſon by delivering Bonds, releaſing Extents, or otherwiſe, in all Caſes concerning Excize; as the Barons of the <hi>Exchequer,</hi> or the Committee of the late <hi>Parlament,</hi> for Inſpecting the Trea<g ref="char:EOLhyphen"/>ſuries, Regulating Officers Sallaries, or any other, might have done before this Ordinance, any Cuſtom, Vſage, Statute, Act, or Ordi<g ref="char:EOLhyphen"/>nance, to the contrary notwithſtanding.</p>
+            <p>And it is further Ordained, That the ſaid Commiſsioners or any three of them, be autho<g ref="char:EOLhyphen"/>rized to give Order to the Commiſsioners of Excize, to Farm out the Excize of ſuch Counties, Places, or Commodities, in <hi>England, Wales,</hi> and Town of <hi>Barwick</hi> upon <hi>Tweed,</hi> as to the ſaid Commiſsioners ſhall appear to be moſt advan<g ref="char:EOLhyphen"/>tagious for the Commonwealth, and the eaſe of the People; to Commence from the <hi>29</hi> of <hi>December, 1653</hi> and continue till the <hi>25.</hi> day of <hi>March. 1654.</hi> So as the ſame be not at a leſs rate then the Excize of ſuch County, Place, or Commodity, was farmed at the laſt year. And the ſaid Commiſsioners, or any three of them, are impowred to approve and allow of ſuch Sallaries, or yearly Wages, and other neceſſary Charges, as by the Commiſsioners for Excize ſhall be allowed to their Officers and others, and expended for carrying on of that Service; and ſhall have power to ſend for Parties, Witneſſes, Writings, and Records, and to commit to Priſon, ſuch as ſhall appear unto them, to hinder and oppoſe the executi<g ref="char:EOLhyphen"/>on
+<pb n="50" facs="tcp:169172:3"/>
+               <!-- PDF PAGE 36 -->
+of the ſeveral Acts, Ordinances, and Or<g ref="char:EOLhyphen"/>ders of <hi>Parlament</hi> for the Excize, or the Mini<g ref="char:EOLhyphen"/>ſters imployed in the ſaid Service; and ſhall from time to time, debate, conſult, and deviſe of all wayes and means for the improvement of the Excize, for the beſt advantage of the Com<g ref="char:EOLhyphen"/>monwealth, in purſuance of the ſeveral Acts, Ordinances, and Orders of <hi>Parlament</hi> relating thereunto, and to prepare ſuch Laws for the Lord Protector, and His Council, for removing of Obſtructions and Improvement of the Ex<g ref="char:EOLhyphen"/>cize, as they ſhall think fit and neceſſary; and from time to time to determine all ſuch Diffe<g ref="char:EOLhyphen"/>rences which may happen and ariſe between the ſaid Commiſsioners of Excize, and the Comptroler. And the ſaid Commiſsioners, or any three of them, are impowred to releaſe ſuch perſon or perſons from Priſon, who ſhall be committed by the Commiſsioners for the Excize, or their Sub-Commiſsioners or Far<g ref="char:EOLhyphen"/>mers.</p>
+         </div>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Thurſday,</hi> the 29 of <hi>December.</hi> 1653.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by His Highneſs, the Lord Protector, and His Council, That this Ordinance be forth<g ref="char:EOLhyphen"/>with Printed and Publiſhed.</p>
+            <closer>
+               <signed>
+                  <hi>Hen. Scobell,</hi> Clerk of the Council.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Will. du-Guard</hi> and <hi>Hen. Hills,</hi> Printers to His Highneſs, the Lord Protector. 1653.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
